@@ -1,6 +1,6 @@
 # Dia_88
 Encuentro Día 88 de Excepciones - Ejercicio 6-9
-<dbr>
+<br>
 <br>
 Para su ejecución, es necesario incluir la librería que se detalla a continuación, en ella se encuentra todos las Entidades (Objetos), Servicios y 
 Utilidades, relacionados con los ejercicios de todas las guías.
@@ -12,20 +12,20 @@ Link Librería: https://github.com/FullStackEggDRoa/libreria_comun.git
 # Desde Netbeans: 
 Propiedades de Proyecto / Librerías / Class Path / Adicionar Proyecto (Add Project) / (Ubicar Directorio Librería)
 # Respuestas:
-<h2> Ejercicio 6:
+## Ejercicio 6:
 <br>
 a) Orden a1,a2, a6 -> Con Exception MioException
 <br>
 b) Orden a1,a2,a3,a4,a5 -> Sin Exception MioException
 <br>
-<h2> Ejercicio 7:
+## Ejercicio 7:
 <br>
 a) Orden b1,a3,b4 ->  Con Exception MioException
 <br>
 b) Orden b1,b2,b4 -> Sin Exception MioException
 <br>
-<h2> Ejercicio 8:
-<h3> Clase Uno:
+## Ejercicio 8:
+### Clase Uno:
 <br>
 Valor final del try :44
 <br>
@@ -35,7 +35,7 @@ Valor antes del return: 46
 <br>
 46
 <br>
-<h3> Clase Dos:
+### Clase Dos:
 <br>
 Valor final del catch: 43
 <br>
@@ -44,7 +44,7 @@ Valor final del finally: 44
 Valor antes del return: 45
 <br>
 45
-<h3> Clase Tres:
+### Clase Tres:
 <br>
 Valor final del finally: 2
 <br>
@@ -62,7 +62,7 @@ java.lang.NumberFormatException: For input string: "W"
 <br>
 	at Entidades.Tres.main(Tres.java:33)
 <br>
-<h2> Ejercicio 9:
+## Ejercicio 9:
 <br>
 a) Orden c1,c4,c5,c6 ->  Con Exception MioException
 <br>
