@@ -25,34 +25,34 @@ b) Orden b1,b2,b4 -> Sin Exception MioException
 ## Ejercicio 8:
 ### Clase Uno:
 <br>
-...
+```
 Valor final del try :44
 Valor final del finally: 45
 Valor antes del return: 46
 46
-...
+```
 <br>
 ### Clase Dos:
 <br>
-...
+```
 Valor final del catch: 43
 Valor final del finally: 44
 Valor antes del return: 45
 45
-...
+```
 ### Clase Tres:
 <br>
 Valor final del finally: 2
 Excepcion en metodo()
 <br> 
-...
+```
 java.lang.NumberFormatException: For input string: "W"
 	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
 	at java.base/java.lang.Integer.parseInt(Integer.java:665)
 	at java.base/java.lang.Integer.parseInt(Integer.java:781)
 	at Entidades.Tres.metodo(Tres.java:20)
 	at Entidades.Tres.main(Tres.java:33)
-...
+```
 ## Ejercicio 9:
 <br>
 a) Orden c1,c4,c5,c6 ->  Con Exception MioException
