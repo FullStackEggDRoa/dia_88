@@ -40,10 +40,9 @@ Valor antes del return: 45
 45
 ```
 ### Clase Tres:
+```
 Valor final del finally: 2
 Excepcion en metodo()
-<br> 
-```
 java.lang.NumberFormatException: For input string: "W"
 	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
 	at java.base/java.lang.Integer.parseInt(Integer.java:665)
