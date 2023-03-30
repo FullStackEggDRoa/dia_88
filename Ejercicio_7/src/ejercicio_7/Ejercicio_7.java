@@ -15,8 +15,8 @@ public class Ejercicio_7 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        // 1. Orden b1,a3,b4 ->  Con Exceptio MioException
-        // 2. Orden b1,b2,b4 -> Con Exceptio MioException
+        // a) Orden b1,a3,b4 ->  Con Exceptio MioException
+        // b) Orden b1,b2,b4 -> Con Exceptio MioException
     }
     
 }

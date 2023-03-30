@@ -17,7 +17,7 @@ public class Ejercicio_8 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Uno test1 = new Uno();
+        // Ejecutar individualmente cada clase, ya que incluyen un main independiente.
         
     }
     
